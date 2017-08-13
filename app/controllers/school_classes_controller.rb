@@ -1,10 +1,6 @@
 class SchoolClassesController < ApplicationController
   before_action :set_school_class, only: [:show, :edit, :update]
 
-  def index
-
-  end
-
   def show
 
   end
