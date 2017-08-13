@@ -1,0 +1,5 @@
+*.db
+*.sqlite3
+schema.rb
+log/*
+tmp/*
